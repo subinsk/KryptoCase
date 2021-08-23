@@ -1,0 +1,2 @@
+# Kryptocase
+Cryptocurrency wallet
