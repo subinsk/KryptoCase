@@ -1,2 +1,2 @@
-# KRYPTON-Walletx
+# Kryptocase
 HooHacks2021
