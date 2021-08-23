@@ -1,0 +1,160 @@
+------------------------------------------
+Bitcoin
+------------------------------------------
+Symbol			- ₿
+Ticker symbol		- BTC
+Original author(s)	- Satoshi Nakamoto
+Implementation(s)	- Bitcoin Core
+Initial release		- 0.1.0/9 January 2009
+Latest release		- 0.18.1/9 August 2019
+Ledger start		- 3 January 2009
+Bitcoin(₿) is a cryptocurrency. It is a decentralized digital currency without a central bank or single administrator that can be sent from user to user on the
+peer-to-peer bitcoin network without the need for intermediaries.Transactions are verified by network nodes through cryptography and recorded in a public distributed 
+ledger called a blockchain. Bitcoin was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto and started in 2009 when its source 
+code was released as open-source software.Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and
+services.Research produced by University of Cambridge estimates that in 2017, there were 2.9 to 5.8 million unique users using a cryptocurrency wallet, most of them 
+using bitcoin.Bitcoin has been criticized for its use in illegal transactions, its high electricity consumption, price volatility, and thefts from exchanges. 
+Some economists, including several Nobel laureates, have characterized it as a speculative bubble. Bitcoin has also been used as an investment, although several 
+regulatory agencies have issued investor alerts about bitcoin.
+
+---------------------------------------------
+Ethereum
+---------------------------------------------
+Symbol			- Ξ
+Ticker symbol		- ETH
+Original author(s)	- Vitalik Buterin,Gavin Wood,Joseph Lubin
+Implementation(s)	- C++,Go,Rust
+Initial release		- 30 July 2015
+Latest release		- 1.9.7/7 November 2019
+Ledger start		- 30 July 2015
+Ethereum (ETH) is a smart contract platform that enables developers to build decentralized applications (dapps) conceptualized by Vitalik Buterin in 2013.
+ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.Ethereum is the pioneer for blockchain 
+based smart contracts. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific 
+conditions are met. On the blockchain, smart contracts allow for code to be run exactly as programmed without any possibility of downtime, censorship, fraud or
+third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. The Ethereum network went live on July 30th,2015
+with 72 million Ethereum premined.
+
+---------------------------------------------
+XRP
+---------------------------------------------
+Symbol			- X
+Ticker symbol		- XRP
+Original author(s)	- Arthur Britto,David Schwartz,Ryan Fugger
+Implementation(s)	- C++
+Initial release		- 2012
+Latest release		- 1.3.1/26 July 2019
+Ledger start		- 2012
+Ripple (XRP) is an independent digital asset that is native to the Ripple Consensus Ledger. With proven governance and the fastest transaction confirmation of
+its kind, XRP is said to be the most efficient settlement option for financial institutions and liquidity providers seeking global reach, accessibility and fast
+settlement finality for interbank flows.The ledger employs the decentralized native cryptocurrency known as XRP,
+which as of September 2018 was the second largest coin by market capitalization.In 2013, the company reported interest
+from banks for using its payment system.By 2018, over 100 banks had signed up, but most of them were only using
+Ripple's XCurrent messaging technology, while avoiding the XRP cryptocurrency due to its volatility problems.
+
+---------------------------------------------
+Bitcoin_Cash
+---------------------------------------------
+Symbol			- ₿
+Ticker symbol		- BCH
+Original author(s)	- Bitcoin community
+Implementation(s)	- Bitcoin ABC,Bitcoin Unlimited
+Initial release		- 1 August 2017
+Latest release		- 0.19.10/25 July 2019 
+Ledger start		- 3 January 2009 
+Bitcoin Cash (BCH) is hard fork (a community-activated update to the protocol or code) of Bitcoin that took effect on August 1st, 2017 that increased the block 
+size to 8MB, to help the scale the underlying technology of Bitcoin.Nov 16th 2018: BCH was hard forked again and split into Bitcoin SV and Bitcoin ABC. 
+Bitcoin ABC became the dominant chain and took over the BCH ticker as it had more hashpower and majority of the nodes in the network.
+
+---------------------------------------------
+Tether
+---------------------------------------------
+Symbol			- ₮
+Ticker symbol		- USDT
+Original author(s)	- J.R. Willett,Brock Pierce,Craig Sellars
+Implementation(s)	- Omni Layer Protocol
+Initial release		- July 2014
+Ledger start		- February 2015
+Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like
+digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” According to their site, Tether converts cash into 
+digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen.Tether (USDT) is issued 
+on the Omni, TRON, and ETH blockchains. 
+
+---------------------------------------------
+Litecoin
+---------------------------------------------
+Symbol			- Ł
+Ticker symbol		- LTC
+Original author(s)	- Charlie Lee
+Implementation(s)	- Bitcoin Core 
+Initial release		- 0.1.0/7 October 2011
+Latest release		- 0.17.1/26 May 2019
+Ledger start		- 13 October 2011
+Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the Bitcoin protocol but differs in terms of the hashing algorithm used.
+Litecoin uses the memory intensive Scrypt proof of work mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.
+
+---------------------------------------------
+EOS
+---------------------------------------------
+Ticker symbol		- EOS
+Original author(s)	- Daniel Larimer,Brendan Blumer
+Implementation(s)	- EOS.IO
+Initial release		- Dawn 3.0.1-alpha/31 January 2018
+Latest release		- EOSIO 1.8.1/9 July 2019 
+Ledger start		- June 2018
+EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. The protocol emulates most of the attributes of a real computer including hardware 
+(CPU(s) & GPU(s) for processing, local/RAM memory, hard-disk storage) with the computing resources distributed equally among EOS cryptocurrency holders.
+EOSIO operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through
+a decentralized autonomous corporation model. The smart contract platform claims to eliminate transaction fees and also conduct millions of transactions per second.
+EOS (EOS) is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. The EOS software 
+provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters.
+
+---------------------------------------------
+Binance_Coin
+---------------------------------------------
+Ticker symbol		- BNB
+Original author(s)	- Changpeng Zhao
+Implementation(s)	- Ethereum
+Initial release		- July 2017
+Ledger start		- July 2017
+Binance Coin (BNB) is the cryptocurrency of the Binance platform. The name "Binance" is a combination of binary and finance. As of 2019, many businesses accept
+BNB as a form of payment. Binance coin runs on the Ethereum blockchain with ERC 20 standard, and has a strict limit of maximum 200 million BNB tokens.The Binance
+coin is expected to fuel the operations of the Binance exchange and its ecosystem. It supports multiple utilities on the Binance ecosystem, which includes paying
+for trading fees, exchange fees, listing fees, and any other fees on the Binance exchange.The first year launch offer provides a 50% discount on trades through 
+Binance coin, and the discount percentage reduces by half each year. That is, the second-year discount is 25%, the third-year discount is 12.5%, and the fourth-year
+discount is 6.25%, with the discount ending from the fifth year onwards.One can also use Binance coins to invest in certain ICOs that are listed through 
+Binance’s Launchpad program. New cryptocurrencies will list on the Binance exchange, and use of Binance will provide a seamless marketplace for trading in 
+a variety of established and new virtual tokens.
+
+---------------------------------------------
+Bitcoin_SV
+---------------------------------------------
+Symbol			- ₿
+Ticker symbol		- BSV
+Original author(s)	- Craig Steven Wright,Calvin Ayre 
+Implementation(s)	- Bitcoin ABC,Bitcoin Unlimited
+Initial release		- 15 November 2018
+Latest release		- 0.2.2/31 October 2019
+Ledger start		- 15 November 2018
+Bitcoin SV stands for Satoshi Vision.Stemming from Bitcoin Cash, BSV is a hard fork (community-activated update to the protocol or code) established as distinct
+from BCH after the network upgrade scheduled for November 15th, 2018 resulted in a hash war determining the chains would be split. According to their website, 
+the Bitcoin SV project is primarily backed by CoinGeek Mining with development work by nChain.
+
+---------------------------------------------
+Stellar
+---------------------------------------------
+Ticker symbol		- XLM
+Original author(s)	- Jed McCaleb,Joyce Kim
+Implementation(s)	- Stellar Consensus Protocol 
+Initial release		- 31 July 2014
+Latest release		- 12.2.0/22 November 2019
+Ledger start		- 31 July 2014
+The Stellar network is an open source, distributed, and community owned network used to facilitate cross-asset transfers of value. Stellar aims to help facilitate
+cross-asset transfer of value at a fraction of a penny while aiming to be an open financial system that gives people of all income levels access to low-cost 
+financial services. Stellar can handle exchanges between fiat-based currencies and between cryptocurrencies. Stellar.org, the organization that supports Stellar,
+is centralized like XRP and meant to handle cross platform transactions and micro transactions like XRP. However, unlike Ripple, Stellar.org is non-profit and 
+their platform itself is open source and decentralized. Through the use of its intermediary currency Lumens (XLM), a user can send any currency that they own 
+to anyone else in a different currency.Stellar was founded by Jed McCaleb in 2014. Jed McCaleb is also the founder of Mt. Gox and co-founder of Ripple, launched 
+the network system Stellar with former lawyer Joyce Kim. Stellar is also a payment technology that aims to connect financial institutions and drastically reduce
+the cost and time required for cross-border transfers. In fact, both payment networks used the same protocol initially.
+
+
